@@ -3,6 +3,7 @@ public class prg381{
         System.out.println("My first git");
         System.out.println("My second git");
         System.out.println("My third git");
+        System.out.println("My second git");
     }
 
 }
